@@ -82,5 +82,5 @@ Sistema de gestión desarrollado en Python como proyecto académico (ABP), enfoc
 ## 🤝 Let’s connect | Conectemos
 
 💼 Open to learning, collaboration and junior opportunities  
-📬 Contact: *(correo : tsbelenzambrano@gmail.com / LinkedIn : [opcional]* (https://www.linkedin.com/in/bel%C3%A9n-zambrano-trabajadora-social/)
+📬 Contact: *(correo : tsbelenzambrano@gmail.com / LinkedIn : [opcional]* https://www.linkedin.com/in/belen-zambrano-trabajadora-social-ti/
 ✨ Thanks for stopping by. Growth is in progress.
