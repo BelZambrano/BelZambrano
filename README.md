@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Belén Zambrano  
 
-💻 Full Stack Python Developer (in progress)  
+💻 Full Stack Python Developer Trainee  
 🎓 Social Worker | Tech with social purpose  
 🇨🇱 Chile | Español & English  
 🌱 Learning by building real, meaningful systems
